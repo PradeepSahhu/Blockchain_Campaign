@@ -16,3 +16,13 @@ sudo npm install next-routes --legacy-peer-deps
 
 
 ```
+
+
+```terminal
+
+
+ipconfig getifaddr en0
+
+HOST=0.0.0.0 npm run start 
+
+```
